@@ -7,7 +7,8 @@
    "postalCode": "77876",
    "division": "Madrid",
    "city": "Athletico City",
-   "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain"
+   "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
+   "is_following": true
   },
    {
    "name": "Home",
@@ -15,7 +16,9 @@
    "postalCode": "77876",
    "division": "Madrid",
    "city": "Athletico City",
-   "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain"
+   "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
+   "is_following": false
+
   },
    {
    "name": "Home",
@@ -23,7 +26,9 @@
    "postalCode": "77876",
    "division": "Madrid",
    "city": "Athletico City",
-   "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain"
+   "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
+   "is_following": true
+
   },
    {
    "name": "Home",
@@ -31,7 +36,9 @@
    "postalCode": "77876",
    "division": "Madrid",
    "city": "Athletico City",
-   "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain"
+   "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
+   "is_following": false
+
   }
  ]
   
