@@ -5,7 +5,7 @@
    "name": "Home",
    "country": "Post 1",
    "postalCode": "77876",
-   "division": "Madrid",
+   "division": "Barcelona",
    "city": "Athletico City",
    "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
    "is_following": true
@@ -24,7 +24,7 @@
    "name": "Home",
    "country": "Post 1",
    "postalCode": "77876",
-   "division": "Madrid",
+   "division": "Valencia",
    "city": "Athletico City",
    "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
    "is_following": true
@@ -34,7 +34,7 @@
    "name": "Home",
    "country": "Post 1",
    "postalCode": "77876",
-   "division": "Madrid",
+   "division": "Sevilla",
    "city": "Athletico City",
    "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
    "is_following": false
