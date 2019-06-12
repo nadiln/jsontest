@@ -1,6 +1,7 @@
 
-[
-  {
+{
+ "addresses": [
+     {
    "name": "Home",
    "country": "Post 1",
    "postalCode": "77876",
@@ -32,5 +33,6 @@
    "city": "Athletico City",
    "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain"
   }
+ ]
   
-  ]
+}
