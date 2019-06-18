@@ -1,130 +1,126 @@
-
 {
- "addresses": [
-     {
-   "name": "Home",
-   "country": "Post 1",
-   "postalCode": "77876",
-   "division": "Barcelona",
-   "city": "Athletico City",
-   "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
-   "is_following": true
-  },
-   {
-   "name": "Home",
-   "country": "Post 1",
-   "postalCode": "77876",
-   "division": "Madrid",
-   "city": "Athletico City",
-   "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
-   "is_following": false
+	"addresses": [{
+			"name": "Home",
+			"country": "Post 1",
+			"postalCode": "77876",
+			"division": "Barcelona",
+			"city": "Athletico City",
+			"address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
+			"is_following": true
+		},
+		{
+			"name": "Home",
+			"country": "Post 1",
+			"postalCode": "77876",
+			"division": "Madrid",
+			"city": "Athletico City",
+			"address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
+			"is_following": false
 
-  },
-   {
-   "name": "Home",
-   "country": "Post 1",
-   "postalCode": "77876",
-   "division": "Valencia",
-   "city": "Athletico City",
-   "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
-   "is_following": true
+		},
+		{
+			"name": "Home",
+			"country": "Post 1",
+			"postalCode": "77876",
+			"division": "Valencia",
+			"city": "Athletico City",
+			"address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
+			"is_following": true
 
-  },
-   {
-   "name": "Home",
-   "country": "Post 1",
-   "postalCode": "77876",
-   "division": "Sevilla",
-   "city": "Athletico City",
-   "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
-   "is_following": false
+		},
+		{
+			"name": "Home",
+			"country": "Post 1",
+			"postalCode": "77876",
+			"division": "Sevilla",
+			"city": "Athletico City",
+			"address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
+			"is_following": false
 
-  }
- ],
- "users": [
-  {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
-    }
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
-    "address": {
-      "street": "Victor Plains",
-      "suite": "Suite 879",
-      "city": "Wisokyburgh",
-      "zipcode": "90566-7771",
-      "geo": {
-        "lat": "-43.9509",
-        "lng": "-34.4618"
-      }
-    },
-    "phone": "010-692-6593 x09125",
-    "website": "anastasia.net",
-    "company": {
-      "name": "Deckow-Crist",
-      "catchPhrase": "Proactive didactic contingency",
-      "bs": "synergize scalable supply-chains"
-    }
-  }
- 
- ],
- 
- "teams": [
-    {
-   "id": 2,
-   "name": "Valencia Padel Club",
-   "country": "Post 1",
-   "postalCode": "77876",
-   "division": "Valencia",
-   "city": "Athletico City",
-   "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
-   "logo_url": "https://www.stickpng.com/img/icons-logos-emojis/football/spanish-football-clubs-logos/valencia-cf-logo"
+		}
+	],
+	"users": [{
+			"id": 1,
+			"name": "Leanne Graham",
+			"username": "Bret",
+			"email": "Sincere@april.biz",
+			"address": {
+				"street": "Kulas Light",
+				"suite": "Apt. 556",
+				"city": "Gwenborough",
+				"zipcode": "92998-3874",
+				"geo": {
+					"lat": "-37.3159",
+					"lng": "81.1496"
+				}
+			},
+			"phone": "1-770-736-8031 x56442",
+			"website": "hildegard.org",
+			"company": {
+				"name": "Romaguera-Crona",
+				"catchPhrase": "Multi-layered client-server neural-net",
+				"bs": "harness real-time e-markets"
+			}
+		},
+		{
+			"id": 2,
+			"name": "Ervin Howell",
+			"username": "Antonette",
+			"email": "Shanna@melissa.tv",
+			"address": {
+				"street": "Victor Plains",
+				"suite": "Suite 879",
+				"city": "Wisokyburgh",
+				"zipcode": "90566-7771",
+				"geo": {
+					"lat": "-43.9509",
+					"lng": "-34.4618"
+				}
+			},
+			"phone": "010-692-6593 x09125",
+			"website": "anastasia.net",
+			"company": {
+				"name": "Deckow-Crist",
+				"catchPhrase": "Proactive didactic contingency",
+				"bs": "synergize scalable supply-chains"
+			}
+		}
 
-  },
-   {
-   "id": 2,
-   "name": "Valencia Padel Club",
-   "country": "Post 1",
-   "postalCode": "77876",
-   "division": "Valencia",
-   "city": "Athletico City",
-   "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
-   "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/For_article_Girona_FC.svg/170px-For_article_Girona_FC.svg.png"
+	],
 
-  },
-   {
-   "id": 3,
-   "name": "Barcelona Padel Club",
-   "country": "Post 1",
-   "postalCode": "77876",
-   "division": "Barcelona",
-   "city": "Athletico City",
-   "address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
-   "logo_url": "https://dlscenter.com/wp-content/uploads/2017/06/Barcelona-logo-dream-league-soccer.png"
+	"teams": [{
+			"id": 2,
+			"name": "Valencia Padel Club",
+			"country": "Post 1",
+			"postalCode": "77876",
+			"division": "Valencia",
+			"city": "Athletico City",
+			"address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
+			"logo_url": "https://www.stickpng.com/img/icons-logos-emojis/football/spanish-football-clubs-logos/valencia-cf-logo"
 
-  }
- ]
-  
+		},
+		{
+			"id": 2,
+			"name": "Valencia Padel Club",
+			"country": "Post 1",
+			"postalCode": "77876",
+			"division": "Valencia",
+			"city": "Athletico City",
+			"address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
+			"logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/For_article_Girona_FC.svg/170px-For_article_Girona_FC.svg.png"
+
+		},
+		{
+			"id": 3,
+			"name": "Barcelona Padel Club",
+			"country": "Post 1",
+			"postalCode": "77876",
+			"division": "Barcelona",
+			"city": "Athletico City",
+			"address": "C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",
+			"logo_url": "https://dlscenter.com/wp-content/uploads/2017/06/Barcelona-logo-dream-league-soccer.png"
+
+		}
+	]
+
 }
