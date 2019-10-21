@@ -1,15 +1,14 @@
 import React from 'react';
-import {Text,Button, View} from 'react-native';
+import Home from '../src/Home';
+import renderer from 'react-test-renderer';
+import { testNameToKey } from 'jest-snapshot/build/utils';
+import expectExport from 'expect';
 
 
-class Home extends React.Component{
-    render() {
-        return (
-            <View style={{ flex:1, alignItems: "flex-end", justifyContent: 'center' }}>
-                <Text>Hellowooooo</Text>
-            </View>
-        );
-    }
-}
+test('Home snapshot',()=>{
+    const snap = renderer.create(
+        <Home />
+    ).toJSON();
 
-export default Home;
+    expectExport(snap).toMatchSnapshot();
+})
